@@ -234,19 +234,12 @@ FuseRecon/
   journal   = {To appear},
   year      = {2026}
 }
-```
 
----
-
-## 许可证
-
-TBD（计划采用 _<Apache-2.0 / MIT>_，以开源发布时为准）。
 
 ---
 
 ## 联系方式
 
-- 项目维护：_<你的名字 / 邮箱>_
 - 问题反馈：请在 GitHub Issues 提交。
 
 ---
